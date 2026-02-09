@@ -6,15 +6,12 @@ Bem-vindo ao meu perfil! Sou apaixonado por tecnologia, análise de dados e pelo
 
 ## Sobre mim
 - 🎓 Estudante de Engenharia de Computação na UFG.
-- 🌱 Currently exploring **DevOps, AI & ML**  
-- 👯 Excited to collaborate on **Full-Stack & AI-driven Projects**
-- 🤖 Building **AI agents & automation workflows**  
-- 🚀 Active in **hackathons, OSS & tech communities** 
-- 🎮 **Fun Fact:** I enjoy experimenting with **Web Dev, AIML Tools & Gaming**  
-- 📫 How to reach me: **khakaleankush@gmail.com**
--  📚 Interessado em aprofundar meus estudos em Machine Learning, Deep Learning, Visão Computacional e Ciência de Dados.
+- 🌱 No momento, estudando Desenvolvimento Web, Visão Computacional 
+- 👯 Aberto a colaborações em Projetos Full-Stack e soluções com IA
+- 🚀 Participante ativo de comunidades tech
+-  📚 Interessado em aprofundar meus estudos em Machine Learning, Deep Learning e Ciência de Dados.
 
-## Minhas Redes
+## Contatos
 
 - *LinkedIn*: [**Abner Gabriel**](https://www.linkedin.com/in/abner-gabriel-monteiro-tavares-6b8660231/)
 - *Portfolio Website*: [**Visit Here**](https://moabner.netlify.app)
