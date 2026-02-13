@@ -16,7 +16,7 @@ Bem-vindo ao meu perfil! Sou apaixonado por tecnologia, análise de dados e pelo
 - *LinkedIn*: [**Abner Gabriel**](https://www.linkedin.com/in/abner-gabriel-monteiro-tavares-6b8660231/)
 - *Portfolio Website*: [**Visit Here**](https://moabner.netlify.app)
 - *Email*: [**abnermt123@gmail.com**](mailto:khakaleankush@gmail.com)
-- *Currículo*: [Abner_Currículo.pdf](https://github.com/user-attachments/files/25298248/Abner_Curriculo.pdf)
+- *Currículo*: [Abner_Gabriel Currículo.pdf](https://github.com/user-attachments/files/25298248/Abner_Curriculo.pdf)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
