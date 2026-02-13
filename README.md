@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil! Sou apaixonado por tecnologia, análise de dados e pelo
 
 ## Sobre mim
 - 🎓 Estudante de Engenharia de Computação na UFG.
-- 🌱 No momento, estudando Desenvolvimento Web, Visão Computacional 
+- 🌱 No momento, estudando Desenvolvimento Web, Visão Computacional e IA
 - 👯 Aberto a colaborações em Projetos Full-Stack e soluções com IA
 - 🚀 Participante ativo de comunidades tech
 -  📚 Interessado em aprofundar meus estudos em Machine Learning, Deep Learning e Ciência de Dados.
