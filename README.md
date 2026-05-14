@@ -1,7 +1,7 @@
 # Olá, sou Abner Gabriel!
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Bem-vindo ao meu perfil! Sou apaixonado por tecnologia, análise de dados e pelo desenvolvimento de soluções inteligentes. Gosto de explorar desde os fundamentos da computação como estruturas de dados, algoritmos e modelagem matemática até áreas avançadas como Ciência de Dados, Visão Computacional e Inteligência Artificial.
+Bem-vindo ao meu perfil! Sou apaixonado por tecnologia, análise de dados e pelo desenvolvimento de soluções inteligentes. Gosto de explorar desde os fundamentos da computação como estruturas de dados, algoritmos e modelagem matemática até áreas avançadas como Ciência de Dados, Visão Computacional, Machine Learning e Inteligência Artificial.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Sobre mim
