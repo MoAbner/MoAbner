@@ -29,6 +29,4 @@ Estudante de Engenharia de Computação na **UFG**, curioso sobre tecnologia e c
 
 ### Estatísticas do GitHub
 
-![Contribuições, dias ativos e sequências nos últimos 12 meses](https://raw.githubusercontent.com/MoAbner/MoAbner/main/assets/metrics-pt.svg)
-
-![Atividade nos últimos 31 dias](https://raw.githubusercontent.com/MoAbner/MoAbner/main/assets/activity-pt.svg)
+<img width="480" src="https://raw.githubusercontent.com/MoAbner/MoAbner/main/assets/arcade-pt.svg" alt="Estatísticas dos últimos 12 meses: 228 contribuições, 61 dias ativos, 1 sequência, 6 recorde. Sequências em dias, limitadas ao período. 2026-09-13." />

@@ -29,6 +29,4 @@ Computer Engineering student at **UFG**, curious about technology and turning id
 
 ### GitHub stats
 
-![Contributions, active days and streaks over the last 12 months](https://raw.githubusercontent.com/MoAbner/MoAbner/main/assets/metrics-en.svg)
-
-![Activity over the last 31 days](https://raw.githubusercontent.com/MoAbner/MoAbner/main/assets/activity-en.svg)
+<img width="480" src="https://raw.githubusercontent.com/MoAbner/MoAbner/main/assets/arcade-en.svg" alt="Stats over the last 12 months: 228 contributions, 61 active days, 1 streak, 6 best streak. Streaks in days, limited to this period. 2026-09-13." />
