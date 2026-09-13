@@ -1,38 +1,54 @@
-# Olá, sou Abner Gabriel!
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+**English** | [Português](https://github.com/MoAbner/MoAbner/blob/main/README.pt-BR.md)
 
-Bem-vindo ao meu perfil! Sou apaixonado por tecnologia, análise de dados e pelo desenvolvimento de soluções inteligentes. Gosto de explorar desde os fundamentos da computação como estruturas de dados, algoritmos e modelagem matemática até áreas avançadas como Ciência de Dados, Visão Computacional, Machine Learning e Inteligência Artificial.
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+# Abner Gabriel
 
-## Sobre mim
-- 🎓 Estudante de Engenharia de Computação na UFG.
-- 🌱 No momento, estudando Desenvolvimento Web, Visão Computacional e IA
-- 👯 Aberto a colaborações em Projetos Full-Stack e soluções com IA
-- 🚀 Participante ativo de comunidades tech
--  📚 Interessado em aprofundar meus estudos em Machine Learning, Deep Learning e Ciência de Dados.
+![Abner Gabriel — Code with soul](https://raw.githubusercontent.com/MoAbner/MoAbner/main/assets/profile-header.svg)
 
-## Contatos
+**Computer Engineering student at UFG · Computer vision, AI & web development**
 
-- *LinkedIn*: [**Abner Gabriel**](https://www.linkedin.com/in/abner-gabriel-monteiro-tavares-6b8660231/)
-- *Portfolio Website*: [**Visit Here**](https://moabner.netlify.app)
-- *Email*: [**abnermt123@gmail.com**](mailto:khakaleankush@gmail.com)
-- *Currículo*: [**Abner Currículo.pdf**](https://github.com/user-attachments/files/27778947/Abner_Gabriel_Curriculo.pdf)
+*Code with soul. Build with curiosity.*
 
+I enjoy turning ideas into working projects—from browser experiments to computer vision pipelines. My interests connect the foundations of computing, such as algorithms, data structures and mathematical modeling, with practical work in data science and intelligent applications.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+[Portfolio](https://moabner.netlify.app) · [LinkedIn](https://www.linkedin.com/in/abner-gabriel-monteiro-tavares-6b8660231/) · [Email](mailto:abnermt123@gmail.com) · [Résumé (Portuguese)](https://github.com/user-attachments/files/27778947/Abner_Gabriel_Curriculo.pdf)
 
-### 📊 Gráfico de Atividade do GitHub
+## About me
 
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoAbner&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="GitHub Activity Graph">
-  </a>
-</p>
+- Studying Computer Engineering at the Federal University of Goiás (UFG).
+- Currently learning web development, computer vision and artificial intelligence.
+- Deepening my understanding of machine learning, deep learning and data science through hands-on projects.
+- Interested in collaborating on full-stack applications and AI projects, and exchanging ideas in tech communities.
 
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=MoAbner&theme=react&border_radius=10."/>
-  <br/> 
-</div>
+## Featured work
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### Zephiro · Assistive computer vision
 
+One idea explored through complementary projects: a Python prototype, an Android application in Kotlin and a synthetic-data study built in Blender.
+
+| Project | Focus | Repository |
+| --- | --- | --- |
+| Python prototype | YOLOv8 detections, camera processing and audio feedback | [Zephiro](https://github.com/MoAbner/Zephiro) |
+| Android prototype | Voice interaction, wearable integration and on-device detection; in development | [Zephiro Mobile](https://github.com/MoAbner/Zephiro-Mobile) |
+| Synthetic urban dataset | 1,000 labeled Blender images across three object classes; YOLOv8 experiments | [Dataset](https://github.com/MoAbner/Zephiro-Dataset-Synthetic) |
+
+### More projects
+
+| Project | What I explored |
+| --- | --- |
+| [Image filters](https://github.com/MoAbner/Filtros_VisoComputacional) | Comparing Sobel, Laplacian and Canny through a Flask interface |
+| [Pixel Panel](https://github.com/MoAbner/PixelPanel) | A browser-based pixel-art editor with image export |
+| [Commissions](https://github.com/Nicolas-Kalebe/Projeto-Commissions) | Collaborative work on an artist platform using React, TypeScript and .NET |
+| [World Risk Index](https://github.com/MoAbner/LIA1) | Exploratory analysis and interactive visualizations of disaster-risk indicators |
+| [Audio classifier](https://github.com/MoAbner/Classificador-de-Audios) | Classifying Portuguese voice commands with audio features and a CNN |
+| [CardioAnalysis](https://github.com/MoAbner/CardioAnalysis) | An educational XGBoost notebook with interactive data exploration |
+
+## Technologies I use and explore
+
+**Programming:** Python · Kotlin · JavaScript · TypeScript  
+**Vision & data:** OpenCV · YOLO · TensorFlow · pandas · NumPy · Plotly  
+**Applications:** Flask · React · Android · Blender  
+**Foundations:** algorithms · data structures · mathematical modeling
+
+## Let's connect
+
+Interested in building something together or discussing one of these projects? Reach me at **[abnermt123@gmail.com](mailto:abnermt123@gmail.com)** or on [LinkedIn](https://www.linkedin.com/in/abner-gabriel-monteiro-tavares-6b8660231/).

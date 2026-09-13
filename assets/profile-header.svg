@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Abner Gabriel — Code with soul</title>
+  <desc id="desc">Orange and black typographic banner with Abner Gabriel's name and AG initials.</desc>
+  <rect width="1200" height="280" fill="#ff501e"/>
+  <path d="M38 48H1162M38 232H1162M866 48V232" stroke="#191a17" stroke-opacity=".4"/>
+  <g fill="#191a17" font-family="Arial, Helvetica, sans-serif">
+    <text x="40" y="32" font-family="monospace" font-size="12" letter-spacing="3">COMPUTER ENGINEERING / UFG</text>
+    <text x="38" y="130" font-size="66" font-weight="900">ABNER GABRIEL</text>
+    <text x="42" y="185" font-family="monospace" font-size="23" letter-spacing="3">CODE WITH SOUL.</text>
+    <text x="904" y="192" font-size="142" font-weight="900" letter-spacing="-12">AG</text>
+    <text x="40" y="258" font-family="monospace" font-size="12" letter-spacing="3">LEARN. BUILD. EVOLVE.</text>
+    <text x="1158" y="258" text-anchor="end" font-family="monospace" font-size="12" letter-spacing="2">MoAbner / 01</text>
+  </g>
+</svg>
