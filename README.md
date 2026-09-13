@@ -4,7 +4,7 @@
 
 Computer Engineering student at **UFG**, curious about technology and turning ideas into useful solutions.
 
-[Portfolio](https://moabner.netlify.app) · [LinkedIn](https://www.linkedin.com/in/abner-gabriel-monteiro-tavares-6b8660231/) · [Email](mailto:abnermt123@gmail.com) · [Résumé](https://github.com/user-attachments/files/27778947/Abner_Gabriel_Curriculo.pdf)
+[Portfolio](https://moabner.netlify.app) · [LinkedIn](https://www.linkedin.com/in/abner-gabriel-monteiro-tavares-6b8660231/) · [Email](mailto:abnermt123@gmail.com) · [Resume](https://github.com/MoAbner/MoAbner/blob/main/Abner_Gabriel_Resume.pdf)
 
 ### About me
 
@@ -49,4 +49,6 @@ Computer Engineering student at **UFG**, curious about technology and turning id
 
 ### GitHub stats
 
-<img width="480" src="https://raw.githubusercontent.com/MoAbner/MoAbner/main/assets/arcade-en.svg" alt="Stats over the last 12 months: 228 contributions, 61 active days, 1 streak, 6 best streak. Streaks in days, limited to this period. 2026-09-13." />
+<p align="center">
+  <img width="480" src="https://raw.githubusercontent.com/MoAbner/MoAbner/main/assets/arcade-en.svg" alt="Stats over the last 12 months: 228 contributions, 61 active days, 1 streak, 6 best streak. Streaks in days, limited to this period. 2026-09-13." />
+</p>

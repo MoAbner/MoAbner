@@ -4,7 +4,7 @@
 
 Estudante de Engenharia de Computação na **UFG**, curioso sobre tecnologia e como transformar ideias em soluções úteis.
 
-[Portfólio](https://moabner.netlify.app) · [LinkedIn](https://www.linkedin.com/in/abner-gabriel-monteiro-tavares-6b8660231/) · [Email](mailto:abnermt123@gmail.com) · [Currículo](https://github.com/user-attachments/files/27778947/Abner_Gabriel_Curriculo.pdf)
+[Portfólio](https://moabner.netlify.app) · [LinkedIn](https://www.linkedin.com/in/abner-gabriel-monteiro-tavares-6b8660231/) · [Email](mailto:abnermt123@gmail.com) · [Currículo](https://github.com/user-attachments/files/27778947/Abner_Gabriel_Curriculo.pdf) · [Resume (EN)](https://github.com/MoAbner/MoAbner/blob/main/Abner_Gabriel_Resume.pdf)
 
 ### Sobre mim
 
@@ -49,4 +49,6 @@ Estudante de Engenharia de Computação na **UFG**, curioso sobre tecnologia e c
 
 ### Estatísticas do GitHub
 
-<img width="480" src="https://raw.githubusercontent.com/MoAbner/MoAbner/main/assets/arcade-pt.svg" alt="Estatísticas dos últimos 12 meses: 228 contribuições, 61 dias ativos, 1 sequência, 6 recorde. Sequências em dias, limitadas ao período. 2026-09-13." />
+<p align="center">
+  <img width="480" src="https://raw.githubusercontent.com/MoAbner/MoAbner/main/assets/arcade-pt.svg" alt="Estatísticas dos últimos 12 meses: 228 contribuições, 61 dias ativos, 1 sequência, 6 recorde. Sequências em dias, limitadas ao período. 2026-09-13." />
+</p>
