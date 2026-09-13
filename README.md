@@ -1,27 +1,24 @@
-**English** | [Português](https://github.com/MoAbner/MoAbner/blob/main/README.pt-BR.md)
+**English** · [Português](https://github.com/MoAbner/MoAbner/blob/main/README.pt-BR.md)
 
-# Hi, I'm Abner Gabriel!
+# Hi, I'm Abner Gabriel 👋
 
-![Abner Gabriel — Code with soul](https://raw.githubusercontent.com/MoAbner/MoAbner/main/assets/profile-header.svg)
+Computer Engineering student at **UFG**, curious about technology and turning ideas into useful solutions.
 
-*Code with soul. Learn. Build. Evolve.*
+[Portfolio](https://moabner.netlify.app) · [LinkedIn](https://www.linkedin.com/in/abner-gabriel-monteiro-tavares-6b8660231/) · [Email](mailto:abnermt123@gmail.com) · [Résumé](https://github.com/user-attachments/files/27778947/Abner_Gabriel_Curriculo.pdf)
 
-## GitHub activity
+### About me
 
-<a href="https://github.com/MoAbner?tab=overview">
-  <img width="100%" src="https://raw.githubusercontent.com/MoAbner/MoAbner/main/assets/activity-en.svg" alt="Abner Gabriel’s contribution graph over the last 31 days" />
-</a>
+- 🔎 Interested in computer vision, artificial intelligence and data science.
+- 🌱 Learning web development, machine learning and deep learning.
+- 🤝 Open to collaborating on full-stack projects and AI applications.
 
-## Contributions & consistency
+### Stack
 
-Contributions, active days and contribution streaks over the last 12 months.
+`Python` `Kotlin` `JavaScript` `TypeScript`  
+`React` `Flask` `OpenCV` `TensorFlow` `pandas` `NumPy`
 
-<p align="center">
-  <a href="https://github.com/MoAbner?tab=overview">
-    <img width="100%" src="https://raw.githubusercontent.com/MoAbner/MoAbner/main/assets/metrics-en.svg" alt="GitHub contributions, active days, current streak and longest streak" />
-  </a>
-</p>
+### GitHub stats
 
-## Get in touch
+![Contributions, active days and streaks over the last 12 months](https://raw.githubusercontent.com/MoAbner/MoAbner/main/assets/metrics-en.svg)
 
-[Portfolio](https://moabner.netlify.app) · [LinkedIn](https://www.linkedin.com/in/abner-gabriel-monteiro-tavares-6b8660231/) · [Email](mailto:abnermt123@gmail.com) · [Résumé (Portuguese)](https://github.com/user-attachments/files/27778947/Abner_Gabriel_Curriculo.pdf)
+![Activity over the last 31 days](https://raw.githubusercontent.com/MoAbner/MoAbner/main/assets/activity-en.svg)
